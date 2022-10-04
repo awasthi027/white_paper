@@ -1,7 +1,7 @@
 # Table of Content
 
  1. What is Cypto Token Kit and What is use of this framework and How we can share Secure credential with Third party apps
- 2. 
+ 2. What is MDM and MDA Mobile Device Management and Mobile Application Management 
 
 **Research and Development Related to Develoment Topics.**
 
@@ -23,3 +23,5 @@ More info:
 [CTK Provider](https://github.com/Purebred/CtkProvider)
 [CTK Consumer](https://github.com/Purebred/CtkConsumer)
 [YubiKey Documentation](https://github.com/Yubico/yubikit-ios)
+
+## ** MDM And MAM **
