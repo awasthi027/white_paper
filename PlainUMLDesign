@@ -1,0 +1,61 @@
+Document flow
+
+CTK Documents
+
+==============================================
+@startuml
+
+actor User
+
+
+User <- PIVD
+
+participant PIVD
+
+participant CredentialProvider As Provider
+
+participant CyptoTokenKiet as CTK
+
+participant PersistentDeviceTokenExtension as PDTE
+
+participant HostApplication as HostApp
+
+
+User <- HostApp: User has PIVD and Host App in his iOS Device
+
+alt This flow not applicable for stored credential with keystore passcode and yubikey
+
+PIVD -> Provider: User has to authenticate with provider and \nGet the Certificates in PIVD \nExample: Xtec, WS1, PureBread, Intercede, Entrust
+
+
+PIVD <- Provider: User Authentication success and getting the certificates\n Not conveing user provider authentication flow
+
+
+PIVD -> PIVD: If token policy allowed will keep\npublic part of certifcate in CTK keychain\nand private key in PIVD keychain
+
+PIVD -> CTK: Save certificate public part or can say\nrepresentation of certificate\nwith hash of public part of certificate(TOKEN) in CTK keychain
+
+PIVD -> PIVD: Save certificate private key \nwith hash of public part of certificate(TOKEN) in PIVD keychain
+
+
+HostApp -> CTK: Get public part of certificates or \nrepresentation of certificates from CTK\nBy specifyomg type(auth,dyc,sign) of \ncertificate, search query and entitlement\nUser can specify types of\ncertificate needed from CTK by\ndefinding in query like Sign or dyc \nonly with entitlement(com.apple.token)
+
+
+HostApp -> HostApp: Select the certificate \nto perform operation\nLike Auth, Sign, Dyc
+
+
+HostApp -> PDTE: Perform operration like Auth, Dyc, Sign,\nSign by giving the reference of private, public key and\nalgothim which gets from public part certificate\nprivate is representation of private key not\nactual private key Actual private key with PIVD Keychain
+
+PDTE <- CTK: Openration will go OS->CTK->PDTE.\n PDTE is part PIVD which can get\nprivate key from PIVD\nkeychain and perform operation and return the resullt.\n PDTE Callback method will\ngive keyObjectID with help of keyObjectID\nget token and private key from PIVD keychain\nbecause its stored with same token
+
+PDTE -> HostApp: PDTE do actull\noperation in TokenSession\nclass and return the result
+
+end
+@enduml
+
+=====================================================
+
+
+
+
+
