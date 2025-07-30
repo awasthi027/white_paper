@@ -197,3 +197,9 @@ After payment note down challan number and BSR code and amount paid and date
 **How to show in Paid IncomeTax before Verify **
 
 Login -> Resume filing -> Tax Paid -> Adavance tax Paid -> Enter BSR Number and Challan Number, Amount, Paid Date. Now you can try to verify
+
+Reference video
+
+Video first: https://www.youtube.com/watch?v=QCb9b0Cg6x0
+
+Video Second: https://www.youtube.com/watch?v=VGR3mQOKlm4&t=1551s
