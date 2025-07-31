@@ -1,205 +1,129 @@
-** How to file ITR assisment year 2025-26 **
-What's things needed handly before filing ITR
-Documents needs before filing the tax: 
-1. Form-16 for Financial years, I my case I worked in Orginisation in FY24-25
-We need two form -16 Employer 1 and Employer 2
-2. STCG and LTCG we need FY complete statement with with Profit and Loss statement
-We need quartly and year profit and Loss and expensive.
-3. We need Indian quartly Dividend Calculation Q1, Q2, Q3, Q4.
-4. We need Foreign quartly Dividend Calculation  Q1, Q2, Q3, Q4.
-5. We need Foreign Stock Broker statement from Jan to Decemeber for that FY years In my it was Fidility and ETrade.
-to get dividend and Foreign Asset declaratio.
-
-First file form-17 
-Steps: Login -> eFile -> Income Tax Form -> File Income tax forms -> Person not dependent of Any source income(Source of income not relvant) -> Scroll row between 20-30 Double Taxtation relief -> form 67
-
-** Add Foreign Dividend **
-
-Exmaple Total Divdent reciept $308
-
-How to calculate tax on USA dividend received in India after paying 25% tax in USA? That calculation I need for form-67. Take example I got $308 dividend for USA Stock  $308 is total dividend including USA 25% Tax?
-
-To calculate the tax on USA dividends received in India after paying 25% tax in the USA, you need to follow these steps for Form-67 (Foreign Income Tax Credit).
-Example Given:
-
-    Gross Dividend (before US tax): $308
-
-    US Tax Rate on Dividend: 25%
-
-    Amount Received in India (after US tax): $308 × (1 - 0.25) = $231
-
-Step-by-Step Calculation for Form-67:
-
-    Convert Foreign Dividend to INR:
-    Use the RBI reference rate on the date of dividend receipt.
-
-        Suppose 1 USD = ₹83 (for illustration).
-
-        Gross Dividend in INR: $308 × 83 = ₹25,564
-
-        Dividend Received in INR (after US tax): $231 × 83 = ₹19,173
-
-    US Tax Paid (in INR):
-
-        US Tax = Gross Dividend – Amount Received = $77
-
-        US Tax in INR: $77 × 83 = ₹6,391
-
-    Indian Tax Calculation:
-
-        The gross dividend (₹25,564) is taxable in India.
-
-        Add it to your total income and apply your applicable tax slab (e.g., 30% + 4% cess).
-
-        Tax Liability (assuming 30% + 4% cess):
-
-            31.2% of ₹25,564 = ₹7,976
-
-    Foreign Tax Credit (FTC) under Section 91:
-
-        Lower of:
-
-            Actual US Tax Paid: ₹6,391
-
-            Indian Tax on Foreign Income: ₹7,976
-
-        FTC Allowed: ₹6,391
-
-    Net Tax Payable in India:
-
-        Indian Tax Liability: ₹7,976
-
-        Less FTC: ₹6,391
-
-        Net Tax Payable: ₹7,976 – ₹6,391 = ₹1,585
-
-Reporting in Form-67:
-Description    Amount (₹)
-Gross Foreign Dividend (before US tax)    25,564
-Foreign Tax Paid (US Tax)    6,391
-Indian Tax on Foreign Income    7,976
-Foreign Tax Credit Claimed (Lower of US tax or Indian tax)    6,391
-Net Tax Payable in India    1,585
-
-** General **
-1. Part A-Gen General information(Your information)
-2. Scedule 5A
-
-** Income **
-1. Schedule salary(Salary BreakUp, LTA, HRA)
-2. Schedule House Property ()
-3. Schedule Capital Gains(Long term and short term capital gain)
-4. Schedule 112A(STCG and LTCG details)
-5. Scheduel 115AD(III)
-6. Schedule VDA
-7. Schedule other Source(Dividend and Interest income)
-8. Schedule SI 
-9. Schedule EI
-10 Schedule PTI
-11. Schedule FSI
-12. Schedule TR
-
-** Income **
-1. Part B - TI (Mandatory)
-2. Part B --TTI (Mandatory)
-3. TAX Paid
-4. Tax Deferred on ESOP 
-
-** Others **
-1. Schedule CYLA(Confirm Income)
-2. Schedule BFLA
-3. Schedule CFL
-4. Schedule FA
-5. Schedule AMT
-6. Schedule AMTC
-
-Salary break up of employer FY2024-25 continue service one employer Salary break from One employer 
-if multiple salary break from multiple 
-1. Basic Salary: 
-2. HRA
-3. Other allowance 
-4. LTA 
-5. Other wit type example Telephone and Medical 
-
-Fil break up details for employers 
-
-Fill Allowance like LTA and HRA
-
-**Schedule Short Capital Gain **
-
-a. Total cost of buying for Short term Profit 100000
-b. Total cost of sell for Short term Profit   110000
-c. Total expensive for Short Term    600
-
-Total Profit Q1: 10000 - 6000 = 9600
-Total Q1 Profit: 2500 
-Total Q1 Expensive: 150 
-Q1 net profit: 2500 - 150 = 2350
-
-Total Profit Q2: 10000 - 6000 = 9600
-Total Q2 Profit: 2500 
-Total Q2 Expensive: 150 
-Q2 net profit: 2500 - 150 = 2350
-
-Total Profit Q3: 10000 - 6000 = 9600
-Total Q3 Profit: 2500 
-Total Q3 Expensive: 150 
-Q3 net profit: 2500 - 150 = 2350
-
-Total Profit Q4: 10000 - 6000 = 9600
-Total Q4 Profit: 2500 
-Total Q4 Expensive: 150 
-Q4 net profit: 2500 - 150 = 2350
-
-Net Profit  Q1 +  Q2 +  Q3 +  Q4 = 2350 + 2350 + 2350 + 2350 = 9600
-
-
-
-
-**Schedule Long Term Capital Gain**
-
-a. Total cost of buying for Short term Profit 100000
-b. Total cost of sell for Short term Profit   110000
-c. Total expensive for Short Term    600
-
-Total Profit Q1: 10000 - 6000 = 9600
-Total Q1 Profit: 2500 
-Total Q1 Expensive: 150 
-Q1 net profit: 2500 - 150 = 2350
-
-Total Profit Q2: 10000 - 6000 = 9600
-Total Q2 Profit: 2500 
-Total Q2 Expensive: 150 
-Q2 net profit: 2500 - 150 = 2350
-
-Total Profit Q3: 10000 - 6000 = 9600
-Total Q3 Profit: 2500 
-Total Q3 Expensive: 150 
-Q3 net profit: 2500 - 150 = 2350
-
-Total Profit Q4: 10000 - 6000 = 9600
-Total Q4 Profit: 2500 
-Total Q4 Expensive: 150 
-Q4 net profit: 2500 - 150 = 2350
-
-Net Profit  Q1 +  Q2 +  Q3 +  Q4 = 2350 + 2350 + 2350 + 2350 = 9600
-
-
-**How to pay adavance tax?**
-
-First Get know If any advance tax need to pay?
-
-Login -> EPay tax -> New Payment -> Income tax -> Processed -> Select Assisment year 2025-26 -> Self tax Assisment(300) -> Enter amout in tax -> Pay 
-
-After payment note down challan number and BSR code and amount paid and date
-
-
-**How to show in Paid IncomeTax before Verify **
-
-Login -> Resume filing -> Tax Paid -> Adavance tax Paid -> Enter BSR Number and Challan Number, Amount, Paid Date. Now you can try to verify
-
-Reference video
-
-Video first: https://www.youtube.com/watch?v=QCb9b0Cg6x0
-
-Video Second: https://www.youtube.com/watch?v=VGR3mQOKlm4&t=1551s
+# Income Tax Return (ITR) Filing Guide for Assessment Year 2025-26  
+
+## 📋 Prerequisites: Documents Required  
+Before filing your ITR, ensure you have the following documents:  
+
+1. **Form-16**  
+   - From all employers (e.g., Employer 1 and Employer 2) for FY 2024-25.  
+2. **Capital Gains Statements**  
+   - **STCG (Short-Term Capital Gains)** and **LTCG (Long-Term Capital Gains)**:  
+     - Complete FY statement with Profit & Loss details.  
+     - Quarterly and annual breakdowns (including expenses).  
+3. **Dividend Calculations**  
+   - **Indian Dividends**: Quarterly statements (Q1–Q4).  
+   - **Foreign Dividends**: Quarterly statements (Q1–Q4).  
+4. **Foreign Broker Statements** (e.g., Fidelity, ETrade)  
+   - January–December FY statements for dividends and foreign asset declarations.  
+5. **TDS on Dividends**  
+   - Verify TDS deductions via **Form 26AS**:  
+     - Login to IT portal → *eFile* → *Income Tax Returns* → *View Form 26AS* → Select AY 2025-26 → Download as PDF.  
+
+---
+
+## 📑 Step 1: File Form-67 (Foreign Tax Credit)  
+### **Steps to Access Form-67**:  
+1. Login to the IT portal.  
+2. Navigate:  
+   *eFile* → *Income Tax Forms* → *File Income Tax Forms* → *Person not dependent on any income source* → Scroll to *Double Taxation Relief* (Rows 20–30) → Select *Form-67*.  
+
+### **Example: Calculating Tax on USA Dividends**  
+**Scenario**:  
+- Gross Dividend: **$308** (includes 25% US tax).  
+- Net Received: **$231** after US tax deduction.  
+
+**Calculations**:  
+| Description                | Amount (USD) | Converted to INR (1 USD = ₹83) |  
+|----------------------------|--------------|--------------------------------|  
+| Gross Dividend (Pre-Tax)   | $308         | ₹25,564                        |  
+| US Tax Paid (25%)          | $77          | ₹6,391                         |  
+| Net Dividend Received      | $231         | ₹19,173                        |  
+
+**Indian Tax Liability**:  
+- Taxable Income: ₹25,564 (gross dividend).  
+- Tax @ 30% + 4% cess: **31.2% of ₹25,564 = ₹7,976**.  
+
+**Foreign Tax Credit (FTC)**:  
+- Lower of:  
+  - US Tax Paid (₹6,391) **or**  
+  - Indian Tax on Foreign Income (₹7,976).  
+- **FTC Allowed**: ₹6,391.  
+
+**Net Tax Payable in India**:  
+₹7,976 (Indian Tax) – ₹6,391 (FTC) = **₹1,585**.  
+
+**Form-67 Reporting Table**:  
+| Description                     | Amount (₹) |  
+|---------------------------------|------------|  
+| Gross Foreign Dividend          | 25,564     |  
+| Foreign Tax Paid (US)           | 6,391      |  
+| Indian Tax on Foreign Income    | 7,976      |  
+| Foreign Tax Credit Claimed      | 6,391      |  
+| Net Tax Payable in India        | 1,585      |  
+
+---
+
+## 📂 ITR Filing Sections Overview  
+### **1. General Information**  
+- **Part A-GEN**: Basic details.  
+- **Schedule 5A**: Additional declarations.  
+
+### **2. Income Details**  
+| Schedule               | Description                                  |  
+|------------------------|----------------------------------------------|  
+| Salary                 | Breakup (Basic, HRA, LTA, allowances).      |  
+| House Property         | Rental income/details.                      |  
+| Capital Gains          | STCG & LTCG statements.                     |  
+| Other Sources          | Dividends, interest income.                 |  
+| Foreign Income (115AD) | Foreign assets/income.                      |  
+
+### **3. Tax Computation**  
+- **Part B-TI**: Total Income.  
+- **Part B-TTI**: Taxable Income.  
+- **Tax Paid/Payable**: Advance tax, TDS, etc.  
+
+### **4. Other Schedules**  
+- **CYLA/BFLA**: Current/Brought Forward Losses.  
+- **Schedule FA**: Foreign asset disclosures.  
+
+---
+
+## 💼 Salary Breakup (FY 2024-25)  
+For single/multiple employers, include:  
+1. **Basic Salary**  
+2. **HRA**  
+3. **Other Allowances**  
+4. **LTA (Leave Travel Allowance)**  
+5. **Perks** (e.g., Telephone, Medical).  
+
+---
+
+## 📈 Capital Gains Calculation Examples  
+### **Short-Term Capital Gains (STCG)**  
+- **Buying Cost**: ₹100,000 | **Selling Cost**: ₹110,000 | **Expenses**: ₹600  
+- **Quarterly Profit**: ₹2,350 (Net after expenses).  
+- **Annual Profit**: ₹9,600 (₹2,350 × 4 quarters).  
+
+### **Long-Term Capital Gains (LTCG)**  
+*(Same calculation structure as STCG)*  
+
+---
+
+## 💳 Paying Advance Tax  
+### **Steps**:  
+1. Check if advance tax is applicable.  
+2. **Payment Portal**:  
+   - Login → *ePay Tax* → *New Payment* → *Income Tax* → *AY 2025-26* → *Self-Assessment Tax (300)*.  
+3. **Post-Payment**:  
+   - Note **Challan No.**, **BSR Code**, amount, and payment date.  
+   - While filing ITR: *Tax Paid* → *Advance Tax Paid* → Enter challan details.  
+
+---
+
+## ✅ Verification  
+- Verify ITR using:  
+  - **Aadhaar OTP** or other methods.  
+  - **Challan details** (if advance tax paid).  
+
+### 🔗 Reference Videos  
+1. [ITR Filing Tutorial](https://www.youtube.com/watch?v=QCb9b0Cg6x0)  
+2. [Advance Tax Payment Guide](https://www.youtube.com/watch?v=VGR3mQOKlm4&t=1551s)  
