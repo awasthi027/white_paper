@@ -16,7 +16,8 @@ Before filing your ITR, ensure you have the following documents:
    - January–December FY statements for dividends and foreign asset declarations.  
 5. **TDS on Dividends**  
    - Verify TDS deductions via **Form 26AS**:  
-     - Login to IT portal → *eFile* → *Income Tax Returns* → *View Form 26AS* → Select AY 2025-26 → Download as PDF.  
+     - Login to IT portal → *eFile* → *Income Tax Returns* → *View Form 26AS* → Select AY 2025-26 → Download as PDF.
+     - If any TDS got detected in that FY, We can fil that while filing ITR.
 
 ---
 
