@@ -117,6 +117,19 @@ For single/multiple employers, include:
 3. **Post-Payment**:  
    - Note **Challan No.**, **BSR Code**, amount, and payment date.  
    - While filing ITR: *Tax Paid* → *Advance Tax Paid* → Enter challan details.  
+---
+
+## 💳 Claim Interest Amount 
+### **Steps**:  
+ 1. Select Schedule VI-A(Mandatory) -> Part C, CA and D -> 80TTA Interest on saving Accountss in case of other than resident senior citiezen -> Edit -> Enter amount
+ 2. Fill total Interest amount atomatically it pick eligible amount
+
+ ---
+
+## 💳 Claim Professional tax paid amount
+### **Steps**:  
+ 1. Select Schedule Salary -> Select Deduction u/s 16 -> Enter profession tax paid amount
+ 2. Fill total Interest amount atomatically it pick eligible amount
 
 ---
 
@@ -128,3 +141,13 @@ For single/multiple employers, include:
 ### 🔗 Reference Videos  
 1. [ITR Filing Tutorial](https://www.youtube.com/watch?v=QCb9b0Cg6x0)  
 2. [Advance Tax Payment Guide](https://www.youtube.com/watch?v=VGR3mQOKlm4&t=1551s)  
+
+---
+## 💳 FAQ
+### **Steps**:  
+- How to get Annual Information statement
+Login in ITR Webside -> AIS -> Tax Information Summary or Annual information statements
+
+
+
+
